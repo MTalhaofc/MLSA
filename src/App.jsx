@@ -29,7 +29,7 @@ const siteProps = {
   email: "muhammad.talha12@studentambassadors.com",
   gitHub: "MTalhaofc",
   instagram: "",
-  linkedIn: "https://www.linkedin.com/in/muhammad-talha-offofc ",
+  linkedIn: "muhammad-talha-offofc ",
   medium: "",
   twitter: "MuhammadTalha",
   youTube: "",
